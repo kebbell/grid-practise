@@ -1,0 +1,1 @@
+CSS practise for different grid styles
